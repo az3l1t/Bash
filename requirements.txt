@@ -1,0 +1,8 @@
+asgiref==3.6.0
+Django==4.2
+django-cdeditor==6.5.1
+django-js-asset=2.0.0
+django-simple-history==3.3.0
+django-tinymce==3.6.1
+python-dotenv==1.0.0
+sqlparse==0.4.4
